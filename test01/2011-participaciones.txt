@@ -1,0 +1,9 @@
+idProp  Nombre                     Email               NumFincas PartFracc  (%)
+-------------------------------------------------------------------------------
+    2   Atonia Gelonch Tapies      agelonch@uoc.edu         2      7/24 (29,15)
+    5   Robert Buj Gelonch         rbuj@uoc.edu             1      1/6 (16,65)
+    9   Josep Ramon Roca Gelonch   jroca@uoc.edu            2      7/24 (29,15)
+   10   Oriol Gaya Buj             ogaya@uoc.edu            2      1/8 (12,50)
+   11   Marc Gaya Buj              mgaya@uoc.edu            2      1/8 (12,50)
+-------------------------------------------------------------------------------
+    1 propietarios                                          TOTAL: 1 (99,95)

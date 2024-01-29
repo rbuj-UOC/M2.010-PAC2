@@ -1,0 +1,138 @@
+# Catalan translations for g_compropietarios2 package
+# Traduccions al català del paquet «g_compropietarios2».
+# Copyright (C) 2011 THE g_compropietarios2'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the g_compropietarios2 package.
+# Automatically generated, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: g_compropietarios2 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-06 07:44+0100\n"
+"PO-Revision-Date: 2011-12-06 07:44+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: g_compropietarios2.cpp:26
+msgid "año"
+msgstr ""
+
+#: herencia.cpp:42
+msgid "Parentesco"
+msgstr ""
+
+#: herencia.cpp:43
+msgid "F.Ac"
+msgstr ""
+
+#: compraventa.cpp:42
+msgid "Precio"
+msgstr ""
+
+#: donacio.cpp:53 donacio.cpp:57
+msgid "Tipo"
+msgstr ""
+
+#: donacio.cpp:53
+msgid "Con obligaciones"
+msgstr ""
+
+#: donacio.cpp:57
+msgid "Simple"
+msgstr ""
+
+#: util.h:26
+msgid "Año incorrecto: "
+msgstr ""
+
+#: compropietaris.cpp:169
+msgid "Error: La suma de las participaciones generales es"
+msgstr ""
+
+#: compropietaris.cpp:187
+msgid "Error: La suma de las participaciones parciales es"
+msgstr ""
+
+#: compropietaris.cpp:477
+msgid "idProp"
+msgstr ""
+
+#: compropietaris.cpp:478
+msgid "Nombre"
+msgstr ""
+
+#: compropietaris.cpp:479
+msgid "Email"
+msgstr ""
+
+#: compropietaris.cpp:480
+msgid "NumFincas"
+msgstr ""
+
+#: compropietaris.cpp:481
+msgid "PartFracc"
+msgstr ""
+
+#: compropietaris.cpp:482
+msgid "(%)"
+msgstr ""
+
+#: compropietaris.cpp:487 compropietaris.cpp:563
+msgid "propietarios"
+msgstr ""
+
+#: compropietaris.cpp:488
+msgid "TOTAL"
+msgstr ""
+
+#: compropietaris.cpp:497
+msgid "NF"
+msgstr ""
+
+#: compropietaris.cpp:498
+msgid "Fecha Tr"
+msgstr ""
+
+#: compropietaris.cpp:499
+msgid "Prop.Anterior"
+msgstr ""
+
+#: compropietaris.cpp:500
+msgid "Prop.Nuevo"
+msgstr ""
+
+#: compropietaris.cpp:501
+msgid "Motovo"
+msgstr ""
+
+#: compropietaris.cpp:501
+msgid "Datos adicionales"
+msgstr ""
+
+#: compropietaris.cpp:548
+msgid " transmisiones"
+msgstr ""
+
+#: compropietaris.cpp:556
+msgid "Procesando año"
+msgstr ""
+
+#: compropietaris.cpp:562
+msgid "Registros leídos:"
+msgstr ""
+
+#: compropietaris.cpp:564
+msgid "propiedades"
+msgstr ""
+
+#: compropietaris.cpp:565
+msgid "propietarios nuevos"
+msgstr ""
+
+#: compropietaris.cpp:566
+msgid "transmisiones"
+msgstr ""

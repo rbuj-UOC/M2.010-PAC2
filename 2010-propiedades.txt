@@ -1,0 +1,15 @@
+.Comentari: Fitxer de propietats i propietaris de l'any 2010
+
+#propietarios
+.Format: idPropietari; nom i cognoms; email
+2; Atonia Gelonch Tapies; agelonch@uoc.edu
+1; Carmen Gelonch Tapies; cgelonch@uoc.edu
+3; Tresina Gelonch Tapies; tgeloch@uoc.edu
+
+#propiedades
+.Format: numfinca; nom finca; participacio general; propietari: participacio & propietari: participacio
+1; Torre Familiar; 1/2; 1 : 1/3 & 2 : 1/3 & 3 : 1/3
+3; Torre Antonia; 1/8; 2 : 1
+4; Torre Tresina; 1/8; 3 : 1
+2; Torre Carme; 1/8; 1 : 1
+3; Apartament; 1/8; 2 : 1
